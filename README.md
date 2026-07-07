@@ -22,17 +22,16 @@ Testing individual robot subsystems that communicate over CAN bus requires a rel
 
 ## Schematic
 
-![Schematic](images/schematic.png)  
-[Full schematic PDF](hardware/schematics/schematic.pdf)
+<img src="Hardware/Schematics/SPI_CAN_Schematic-1.jpg" width="500">
 
 ## PCB Layout
 
-![Layout](images/layout.png)  
-[Full layout PDF](hardware/pcb-layout/layout.pdf)
+<img src="Hardware/pcb-layout/Altium_Screenshot.png" width="500">
+<img src="Hardware/pcb-layout/Altium_Screenshot_3D.png" width="500">
 
 ## Board Photo
 
-![Board](images/board.jpg)
+<img src="Images/Final_PCBs.jpeg" width="500">
 
 ## Design Decisions
 
