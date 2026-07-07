@@ -45,11 +45,7 @@ Testing individual robot subsystems that communicate over CAN bus requires a rel
 
 ## Bring-Up Notes
 
-Hand-soldered and validated using bench equipment. Board was designed as a companion to the Emergency Stop Receiver board to allow off-robot testing of CAN bus subsystems without requiring the full robot platform.
-
-## Related Projects
-
-- [Emergency Stop Receiver Board](../estop-receiver-pcb) — the board this was designed to test against
+Hand-soldered and validated using bench equipment. Prepared three boards to be used as general lab test equipment for individual hardware systems. 
 
 ## Tools
 
