@@ -1,5 +1,5 @@
 # CANbridge — SPI to CAN Converter
-SPI-to-CAN interface board enabling microcontrollers and development systems to communicate with CAN networks via MCP2515.
+### SPI-to-CAN interface board enabling microcontrollers and development systems to communicate with CAN networks via MCP2515.
 
 A compact 2-layer PCB that converts SPI communication to CAN bus, designed for off-robot subsystem testing for Sooner Competitive Robotics.
 
