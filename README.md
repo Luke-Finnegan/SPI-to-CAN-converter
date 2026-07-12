@@ -31,7 +31,7 @@ Testing individual robot subsystems that communicate over CAN bus requires a rel
 
 ## Board Photo
 
-<img src="Images/Final_PCBs.jpg" width="500">
+<img src="Images/IMG_7574.jpeg" width="500">
 
 ## Design Decisions
 
